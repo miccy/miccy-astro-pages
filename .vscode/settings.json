@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "**/node_modules": false,
+    "**/.astro": false,
+    "**/dist": false
+  }
+}

@@ -7,7 +7,7 @@ This Turborepo starter is maintained by the Turborepo core team.
 Run the following command:
 
 ```sh
-npx create-turbo@latest -e with-tailwind
+npx create-turbo@latest -e miccy-astro-pages
 ```
 
 ## What's inside?
